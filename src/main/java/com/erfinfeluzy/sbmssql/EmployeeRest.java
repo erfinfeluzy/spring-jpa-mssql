@@ -23,7 +23,7 @@ public class EmployeeRest {
 
     @GetMapping("/home")
 	public String home() {
-		return "hello BPJS KS";
+		return "hello Mas Yazid";
     }
     
     @GetMapping("/employees")
